@@ -1,8 +1,12 @@
 # GPT_Intelligence_Reduction_Incident_Investigation_Report
 
+@ youtube:https://www.youtube.com/watch?v=KMWzGSRnEF8
+
 [English](#english-readme) | [中文](#chinese-readme)
 
 <a name="english-readme"></a>
+
+
 
 ## English README
 
