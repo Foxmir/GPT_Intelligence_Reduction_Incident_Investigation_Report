@@ -17,7 +17,7 @@ Statistical Report and In-Depth Analysis of the GPT Degradation Incident Based o
 Written entirely by hand by an individual, this report brings together personal observations, community feedback, and test records to explore GPT intelligence degradation, detection methods, possible causes, and potential responses. It also aims to offer some support to affected users.
 
 - Completed on September 27, 2026. Ongoing updates are not guaranteed.
-- Start with “Key Conclusions” (核心结论先行); test prompts are provided in Section 15.
+- Start with “Key Conclusions” (Core conclusions first); test prompts are provided in Section 15.
 - The report includes personal judgments and hypotheses, with the author's confidence levels marked. Please read them in light of the evidence.
 
 Sharing, quoting, and redistribution are welcome, as are discussion and corrections.
